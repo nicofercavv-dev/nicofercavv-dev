@@ -1,5 +1,5 @@
 ### Eaí, tudo bem? Sou a Nicole Ferreira 🌴
-- 🎓 Sou uma estudante de Engenharia de Software e procuro por oportunidades e colaboração em projetos relacionados a desenvolvimento web
+- 🎓 Sou uma estudante de Engenharia de Software e procuro por oportunidades e colaborações em projetos relacionados a desenvolvimento web
 - 📖 Atualmente estou estudando a stack front-end (HTML, CSS, JS), mas tambem busco aprender sobre desenvolvimento mobile
 - 📧 Email para contato: nicoleferreira281@gmail.com
 - 🙋‍♀️ Pronomes: ela/dela
