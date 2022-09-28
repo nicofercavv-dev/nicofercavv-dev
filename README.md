@@ -1,6 +1,6 @@
 ### Eaí, tudo bem? Sou a Nicole Ferreira 🌴
 - 🎓 Sou uma estudante de Engenharia de Software e atualmente sou estagiária em desenvolvimento web na Aceleradora Ágil pela PUCRS
-- 📖 Atualmente estou estudando a stack front-end, mas tambem busco aprender sobre desenvolvimento mobile
+- 📖 Atualmente estou estudando as stacks front e back-end
 - 📧 Email para contato: nicoleferreira281@gmail.com
 - 🙋‍♀️ Pronomes: ela/dela
 
