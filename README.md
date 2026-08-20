@@ -1,7 +1,6 @@
 ## Eaí, tudo bem? Sou a Nicole Ferreira
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ultravlncebaby) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicoferca/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nicoferca/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nicoleferreira281@gmail.com)
-- 🎓 Sou uma estudante de Engenharia de Software e atualmente atuo como desenvolvedora na DB
-- 📖 Atualmente estou estudando as stacks front e back-end
+- 🎓 Sou Engenheira de Software Fullstack
 - 🙋‍♀️ Pronomes: ela/dela
 
 ## Techs
